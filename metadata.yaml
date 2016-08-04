@@ -1,0 +1,35 @@
+_repo: The-Lair-of-the-White-Worm_1188
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stoker, Bram
+    alias: Stoker, Abraham
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '190'
+    url: http://www.gutenberg.org/2009/agents/190
+    wikipedia: http://en.wikipedia.org/wiki/Bram_Stoker
+description: Something evil is lurking under the ground in Diana' s Grove. Summoned
+  by his great-uncle, Richard Salton, Adam Salton travels to Lesser Hill, Mercia,
+  only to find himself surrounded by evil. Be it the Castra Regis' s mesmeric assault
+  on Lilla Watford, a child' s mysterious wounds, the lady Arabella March' s murder
+  of Oolanga, or the terrifying white worm that dwells in a pit in Arabella' s house,
+  Adam must work quickly to save himself and the other inhabitants of the area.
+gutenberg_bookshelf:
+- Gothic Fiction
+- Horror
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcc 'PR'
+- !lcsh 'Gothic fiction (Literary genre)'
+- GITenberg
+title: The Lair of the White Worm
+url: http://www.gutenberg.org/ebooks/1188
