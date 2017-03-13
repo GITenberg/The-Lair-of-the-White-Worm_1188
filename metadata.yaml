@@ -1,5 +1,8 @@
 _repo: The-Lair-of-the-White-Worm_1188
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stoker, Bram
@@ -15,6 +18,8 @@ description: Something evil is lurking under the ground in Diana' s Grove. Summo
   on Lilla Watford, a child' s mysterious wounds, the lady Arabella March' s murder
   of Oolanga, or the terrifying white worm that dwells in a pit in Arabella' s house,
   Adam must work quickly to save himself and the other inhabitants of the area.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1188#The-Lair-of-the-White-Worm
 gutenberg_bookshelf:
 - Gothic Fiction
 - Horror
